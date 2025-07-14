@@ -27,7 +27,7 @@ The program includes both **frontend** and **backend development**, covering top
 
 🌐 **Portfolio & Personal Projects**  
 You can find my personal portfolio and several self-initiated projects here:  
-🔗 [My Portfolio](https://karlgit13.github.io/Personal-Portfolio/)
+🔗 [My Portfolio](https://karlgit13.github.io/Personal-Portfolio/) (will be updates ASAP)
 
 🤝 **Open to Collaboration**  
 I’m always looking to collaborate on interesting projects that help me grow as a developer and deepen my understanding of real-world code.
