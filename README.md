@@ -5,7 +5,7 @@
 - Certified in **JavaScript Algorithms and Data Structures** via FreeCodeCamp
 
 💻 **About Me**  
-I'm passionate about everything related to development and coding — whether it's front-end, JavaScript frameworks, or just tinkering with new technologies.
+I'm passionate about everything related to development and coding — whether it's front-end or back-end, JavaScript frameworks, or just tinkering with new technologies.
 
 📚 **Currently Studying**  
 I'm currently enrolled in an **official Swedish Higher Vocational Education program (Yrkeshögskola)** to become a **JavaScript Developer** at **Folkuniversitetet in Gothenburg, Sweden**.  
