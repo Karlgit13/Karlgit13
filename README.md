@@ -5,11 +5,12 @@
 - Certified in **JavaScript Algorithms and Data Structures** via FreeCodeCamp
 
 💻 **About Me**  
-I'm passionate about everything related to development and coding — whether it's front-end or back-end, JavaScript frameworks, or just tinkering with new technologies.
+I'm passionate about everything related to development and coding — whether it's front-end, JavaScript frameworks, or just tinkering with new technologies.
 
 📚 **Currently Studying**  
 I'm currently enrolled in an **official Swedish Higher Vocational Education program (Yrkeshögskola)** to become a **JavaScript Developer** at **Folkuniversitetet in Gothenburg, Sweden**.  
-The program leads to a **post-secondary diploma** and includes both **frontend** and **backend development**, covering areas such as **REST APIs**, **databases**, and **server-side JavaScript** with **Node.js**.
+The program includes both **frontend** and **backend development**, covering topics such as **REST APIs**, **databases**, and **server-side JavaScript** with **Node.js**.  
+🗓️ I am on track to graduate and receive my **post-secondary diploma** on **June 12, 2026**.
 
 🛠️ **Technologies I Work With**
 
@@ -24,12 +25,16 @@ The program leads to a **post-secondary diploma** and includes both **frontend**
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat)
 
+🌐 **Portfolio & Personal Projects**  
+You can find my personal portfolio and several self-initiated projects here:  
+🔗 [My Portfolio](https://karlgit13.github.io/Personal-Portfolio/)
+
 🤝 **Open to Collaboration**  
 I’m always looking to collaborate on interesting projects that help me grow as a developer and deepen my understanding of real-world code.
 
 📫 **Contact Me**  
 Feel free to reach out at **Karl.vareskog@gmail.com**
-or visit my portfolio at https://karlgit13.github.io/Personal-Portfolio/ (will be updated soon)
+
 ---
 
 <!---
