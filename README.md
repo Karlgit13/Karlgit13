@@ -34,10 +34,3 @@ I’m always looking to collaborate on interesting projects that help me grow as
 
 📫 **Contact Me**  
 Feel free to reach out at **Karl.vareskog@gmail.com**
-
----
-
-<!---
-Karlgit13/Karlgit13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
