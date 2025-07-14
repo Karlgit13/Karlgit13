@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Karlgit13 - Certified Front-End Developer. 
+- 👋 Hi, I’m @Karlgit13 - Certified Front-End Developer. (META Frontend-End Developer, including 9 certifications. & FreeCodeCamp certification Javascript Algorithms and Data Structure) 
 - 👀 I’m interested in pretty much anything that has to do with Development and coding!
 - 🌱 In school studying Game-Development.
 - 💞️ I’m looking to collaborate on anything that can help me with the process of learning code more in depth!
