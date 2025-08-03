@@ -33,5 +33,5 @@ You can find my personal portfolio and several self-initiated projects here:
 I’m always looking to collaborate on interesting projects that help me grow as a developer and deepen my understanding of real-world code.
 
 📫 **Contact Me**  
-Email: **Karl.vareskog@gmail.com**
+Email: **Karl.vareskog@gmail.com**<br>
 MobileNumber: **0735462510**
