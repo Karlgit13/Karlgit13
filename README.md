@@ -24,6 +24,13 @@ The program includes both **frontend** and **backend development**, covering top
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat)
+![Lambda](https://img.shields.io/badge/-AWS%20Lambda-FF9900?logo=awslambda&logoColor=white&style=flat)
+![DynamoDB](https://img.shields.io/badge/-Amazon%20DynamoDB-4053D6?logo=amazondynamodb&logoColor=white&style=flat)
+![CloudWatch](https://img.shields.io/badge/-Amazon%20CloudWatch-FF4F8B?logo=amazoncloudwatch&logoColor=white&style=flat)
+![IAM](https://img.shields.io/badge/-AWS%20IAM-DD344C?logo=awsiam&logoColor=white&style=flat)
+![Serverless Framework](https://img.shields.io/badge/-Serverless%20Framework-FD5750?logo=serverless&logoColor=white&style=flat)
+![API Gateway](https://img.shields.io/badge/-Amazon%20API%20Gateway-9013FE?logo=amazonapigateway&logoColor=white&style=flat)
 
 🌐 **Portfolio & Personal Projects**  
 You can find my personal portfolio and several self-initiated projects here:  
