@@ -1,5 +1,7 @@
 # 👋 Hi, I'm @Karlgit13
 
+🔗Please check [My Portfolio](https://karlgit13.github.io/Personal-Portfolio/)
+
 🎓 **Certified Front-End Developer**  
 - Completed the **Meta Front-End Developer Professional Certificate** (9 certifications)  
 - Certified in **JavaScript Algorithms and Data Structures** via FreeCodeCamp
@@ -33,10 +35,6 @@ The program includes both **frontend** and **backend development**, covering top
 ![Serverless Framework](https://img.shields.io/badge/-Serverless%20Framework-FD5750?logo=serverless&logoColor=white&style=flat)
 ![API Gateway](https://img.shields.io/badge/-Amazon%20API%20Gateway-9013FE?logo=amazonapigateway&logoColor=white&style=flat)
 
-
-🌐 **Portfolio & Personal Projects**  
-You can find my personal portfolio and several self-initiated projects here:  
-🔗 [My Portfolio](https://karlgit13.github.io/Personal-Portfolio/) (will be updates ASAP)
 
 🤝 **Open to Collaboration**  
 I’m always looking to collaborate on interesting projects that help me grow as a developer and deepen my understanding of real-world code.
