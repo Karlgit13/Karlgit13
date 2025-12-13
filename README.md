@@ -15,7 +15,23 @@ I am currently employed part-time (50%), primarily serving as an on-call expert 
   <a href="mailto:karl.vareskog@icloud.com">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://img.shields.io/badge/LOCATION-STOCKHOLM-lightgrey?style=for-the-badge&logo=google-maps&logoColor=black" alt="Location" />
+  <p align="left">
+  <span
+    style="
+      display:inline-block;
+      padding:6px 12px;
+      border-radius:999px;
+      background:#e5e7eb;
+      color:#111827;
+      font-weight:600;
+      font-size:12px;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+    "
+  >
+    📍 LOCATION: STOCKHOLM
+  </span>
+</p>
+
 </p>
 
 ---
@@ -36,20 +52,178 @@ I'm a **JavaScript Full-Stack Developer** and **AI Engineer** passionate about b
 
 The technologies and tools I work with:
 
+## 💻 Tech Stack & Tools
+
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <span style="
+    display:inline-block;
+    padding:6px 12px;
+    margin:2px;
+    border-radius:999px;
+    background:#e34f26;
+    color:#ffffff;
+    font-weight:600;
+    font-size:12px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+  ">
+    HTML5
+  </span>
+
+  <span style="
+    display:inline-block;
+    padding:6px 12px;
+    margin:2px;
+    border-radius:999px;
+    background:#1572b6;
+    color:#ffffff;
+    font-weight:600;
+    font-size:12px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+  ">
+    CSS3
+  </span>
+
+  <span style="
+    display:inline-block;
+    padding:6px 12px;
+    margin:2px;
+    border-radius:999px;
+    background:#f7df1e;
+    color:#000000;
+    font-weight:600;
+    font-size:12px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+  ">
+    JavaScript
+  </span>
+
+  <span style="
+    display:inline-block;
+    padding:6px 12px;
+    margin:2px;
+    border-radius:999px;
+    background:#61dafb;
+    color:#000000;
+    font-weight:600;
+    font-size:12px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+  ">
+    React
+  </span>
+
+  <span style="
+    display:inline-block;
+    padding:6px 12px;
+    margin:2px;
+    border-radius:999px;
+    background:#339933;
+    color:#ffffff;
+    font-weight:600;
+    font-size:12px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+  ">
+    Node.js
+  </span>
+
+  <span style="
+    display:inline-block;
+    padding:6px 12px;
+    margin:2px;
+    border-radius:999px;
+    background:#000000;
+    color:#ffffff;
+    font-weight:600;
+    font-size:12px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+  ">
+    Express.js
+  </span>
+
+  <span style="
+    display:inline-block;
+    padding:6px 12px;
+    margin:2px;
+    border-radius:999px;
+    background:#316192;
+    color:#ffffff;
+    font-weight:600;
+    font-size:12px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+  ">
+    PostgreSQL
+  </span>
+
+  <span style="
+    display:inline-block;
+    padding:6px 12px;
+    margin:2px;
+    border-radius:999px;
+    background:#47a248;
+    color:#ffffff;
+    font-weight:600;
+    font-size:12px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+  ">
+    MongoDB
+  </span>
+
+  <span style="
+    display:inline-block;
+    padding:6px 12px;
+    margin:2px;
+    border-radius:999px;
+    background:#232f3e;
+    color:#ffffff;
+    font-weight:600;
+    font-size:12px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+  ">
+    AWS
+  </span>
+
+  <span style="
+    display:inline-block;
+    padding:6px 12px;
+    margin:2px;
+    border-radius:999px;
+    background:#16a394;
+    color:#ffffff;
+    font-weight:600;
+    font-size:12px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+  ">
+    Render
+  </span>
+
+  <span style="
+    display:inline-block;
+    padding:6px 12px;
+    margin:2px;
+    border-radius:999px;
+    background:#2496ed;
+    color:#ffffff;
+    font-weight:600;
+    font-size:12px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+  ">
+    Docker
+  </span>
+
+  <span style="
+    display:inline-block;
+    padding:6px 12px;
+    margin:2px;
+    border-radius:999px;
+    background:#2088ff;
+    color:#ffffff;
+    font-weight:600;
+    font-size:12px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+  ">
+    GitHub Actions
+  </span>
 </p>
+
 
 ---
 
