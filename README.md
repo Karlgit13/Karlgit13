@@ -15,18 +15,7 @@ I am currently employed part-time (50%), primarily serving as an on-call expert 
   <a href="mailto:karl.vareskog@icloud.com">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
- <p>
-  <svg xmlns="http://www.w3.org/2000/svg" width="140" height="24" role="img" aria-label="LOCATION STOCKHOLM">
-    <rect width="140" height="24" fill="#6b7280" rx="4" />
-    <text x="50%" y="50%" fill="#ffffff" font-size="10" font-family="system-ui, -apple-system, sans-serif"
-          text-anchor="middle" dominant-baseline="middle">
-      LOCATION: STOCKHOLM
-    </text>
-  </svg>
-</p>
-
-
-
+  <img src="https://img.shields.io/badge/LOCATION-STOCKHOLM-lightgrey?style=for-the-badge&logo=google-maps&logoColor=black" alt="Location" />
 </p>
 
 ---
@@ -47,120 +36,20 @@ I'm a **JavaScript Full-Stack Developer** and **AI Engineer** passionate about b
 
 The technologies and tools I work with:
 
-## 💻 Tech Stack & Tools
-
-<p>
-  <!-- HTML5 -->
-  <svg xmlns="http://www.w3.org/2000/svg" width="70" height="22" role="img" aria-label="HTML5">
-    <rect width="70" height="22" fill="#E34F26" rx="4" />
-    <text x="50%" y="50%" fill="#ffffff" font-size="10" font-family="system-ui, -apple-system, sans-serif"
-          text-anchor="middle" dominant-baseline="middle">
-      HTML5
-    </text>
-  </svg>
-
-  <!-- CSS3 -->
-  <svg xmlns="http://www.w3.org/2000/svg" width="60" height="22" role="img" aria-label="CSS3">
-    <rect width="60" height="22" fill="#1572B6" rx="4" />
-    <text x="50%" y="50%" fill="#ffffff" font-size="10" font-family="system-ui, -apple-system, sans-serif"
-          text-anchor="middle" dominant-baseline="middle">
-      CSS3
-    </text>
-  </svg>
-
-  <!-- JavaScript -->
-  <svg xmlns="http://www.w3.org/2000/svg" width="90" height="22" role="img" aria-label="JavaScript">
-    <rect width="90" height="22" fill="#F7DF1E" rx="4" />
-    <text x="50%" y="50%" fill="#000000" font-size="10" font-family="system-ui, -apple-system, sans-serif"
-          text-anchor="middle" dominant-baseline="middle">
-      JavaScript
-    </text>
-  </svg>
-
-  <!-- React -->
-  <svg xmlns="http://www.w3.org/2000/svg" width="60" height="22" role="img" aria-label="React">
-    <rect width="60" height="22" fill="#61DAFB" rx="4" />
-    <text x="50%" y="50%" fill="#000000" font-size="10" font-family="system-ui, -apple-system, sans-serif"
-          text-anchor="middle" dominant-baseline="middle">
-      React
-    </text>
-  </svg>
-
-  <!-- Node.js -->
-  <svg xmlns="http://www.w3.org/2000/svg" width="70" height="22" role="img" aria-label="Node.js">
-    <rect width="70" height="22" fill="#339933" rx="4" />
-    <text x="50%" y="50%" fill="#ffffff" font-size="10" font-family="system-ui, -apple-system, sans-serif"
-          text-anchor="middle" dominant-baseline="middle">
-      Node.js
-    </text>
-  </svg>
-
-  <!-- Express.js -->
-  <svg xmlns="http://www.w3.org/2000/svg" width="90" height="22" role="img" aria-label="Express.js">
-    <rect width="90" height="22" fill="#000000" rx="4" />
-    <text x="50%" y="50%" fill="#ffffff" font-size="10" font-family="system-ui, -apple-system, sans-serif"
-          text-anchor="middle" dominant-baseline="middle">
-      Express.js
-    </text>
-  </svg>
-
-  <!-- PostgreSQL -->
-  <svg xmlns="http://www.w3.org/2000/svg" width="90" height="22" role="img" aria-label="PostgreSQL">
-    <rect width="90" height="22" fill="#316192" rx="4" />
-    <text x="50%" y="50%" fill="#ffffff" font-size="10" font-family="system-ui, -apple-system, sans-serif"
-          text-anchor="middle" dominant-baseline="middle">
-      PostgreSQL
-    </text>
-  </svg>
-
-  <!-- MongoDB -->
-  <svg xmlns="http://www.w3.org/2000/svg" width="80" height="22" role="img" aria-label="MongoDB">
-    <rect width="80" height="22" fill="#47A248" rx="4" />
-    <text x="50%" y="50%" fill="#ffffff" font-size="10" font-family="system-ui, -apple-system, sans-serif"
-          text-anchor="middle" dominant-baseline="middle">
-      MongoDB
-    </text>
-  </svg>
-
-  <!-- AWS -->
-  <svg xmlns="http://www.w3.org/2000/svg" width="60" height="22" role="img" aria-label="AWS">
-    <rect width="60" height="22" fill="#232F3E" rx="4" />
-    <text x="50%" y="50%" fill="#ffffff" font-size="10" font-family="system-ui, -apple-system, sans-serif"
-          text-anchor="middle" dominant-baseline="middle">
-      AWS
-    </text>
-  </svg>
-
-  <!-- Render -->
-  <svg xmlns="http://www.w3.org/2000/svg" width="70" height="22" role="img" aria-label="Render">
-    <rect width="70" height="22" fill="#16A394" rx="4" />
-    <text x="50%" y="50%" fill="#ffffff" font-size="10" font-family="system-ui, -apple-system, sans-serif"
-          text-anchor="middle" dominant-baseline="middle">
-      Render
-    </text>
-  </svg>
-
-  <!-- Docker -->
-  <svg xmlns="http://www.w3.org/2000/svg" width="70" height="22" role="img" aria-label="Docker">
-    <rect width="70" height="22" fill="#2496ED" rx="4" />
-    <text x="50%" y="50%" fill="#ffffff" font-size="10" font-family="system-ui, -apple-system, sans-serif"
-          text-anchor="middle" dominant-baseline="middle">
-      Docker
-    </text>
-  </svg>
-
-  <!-- GitHub Actions -->
-  <svg xmlns="http://www.w3.org/2000/svg" width="120" height="22" role="img" aria-label="GitHub Actions">
-    <rect width="120" height="22" fill="#2088FF" rx="4" />
-    <text x="50%" y="50%" fill="#ffffff" font-size="10" font-family="system-ui, -apple-system, sans-serif"
-          text-anchor="middle" dominant-baseline="middle">
-      GitHub Actions
-    </text>
-  </svg>
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
 </p>
-
-
-
 
 ---
 
