@@ -22,7 +22,7 @@ I am currently employed part-time (50%), primarily serving as an on-call expert 
 
 ## 🚀 About Me
 
-I'm a **JavaScript Full-Stack Developer** and **AI Engineer** passionate about building modern, scalable applications — from frontend interfaces to backend systems, cloud infrastructure, and LLM-powered tools.
+I'm a **JavaScript Full-Stack Developer** and **AI Engineer** passionate about building modern, scalable applications — from frontend interfaces to backend systems, cloud infrastructure, And using a various amount of AI tools to achive perfection, optimization, automatisation & speed.
 
 **I focus on:**
 
