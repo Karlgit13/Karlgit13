@@ -2,11 +2,12 @@
 
 ### JavaScript Full-Stack Developer | AI Engineer | System Architect
 
-#### I am currently employed part-time (50%), primarily serving as an on-call expert for advanced debugging and complex problem-solving. I am actively seeking an additional 50% part-time role to secure more consistent working hours and expand my experience.
+I am currently employed part-time (50%), primarily serving as an on-call expert for advanced debugging and complex problem-solving. I am actively seeking an additional 50% part-time role to secure more consistent working hours and expand my experience.
 
 [![Portfolio](https://img.shields.io/badge/Check_My_Portfolio-545AD8?style=for-the-badge&logo=About.me&logoColor=white&colorA=4C2E9C&colorB=545AD8)](https://karlgit13.github.io/Personal-Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karl-vareskog-ab6a432a7/)
 [![Email](https://img.shields.io/badge/Email-karl.vareskog@icloud.com-1D4ED8?style=for-the-badge&logo=icloud&logoColor=white)](mailto:karl.vareskog@icloud.com)
+![Location](https://img.shields.io/badge/Location-Stockholm-lightgrey?style=for-the-badge&logo=google-maps&logoColor=white)
 
 ---
 
