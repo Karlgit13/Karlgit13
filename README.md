@@ -15,22 +15,22 @@ I am currently employed part-time (50%), primarily serving as an on-call expert 
   <a href="mailto:karl.vareskog@icloud.com">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <p align="left">
-  <span
-    style="
-      display:inline-block;
-      padding:6px 12px;
-      border-radius:999px;
-      background:#e5e7eb;
-      color:#111827;
-      font-weight:600;
-      font-size:12px;
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
-    "
-  >
-    📍 LOCATION: STOCKHOLM
+  <p>
+  <span style="
+    display:inline-block;
+    padding:6px 14px;
+    margin:2px 0;
+    border-radius:6px;
+    background:#4b5563;
+    color:white;
+    font-size:12px;
+    font-weight:600;
+    font-family:system-ui, sans-serif;
+  ">
+    LOCATION: STOCKHOLM
   </span>
 </p>
+
 
 </p>
 
@@ -54,175 +54,21 @@ The technologies and tools I work with:
 
 ## 💻 Tech Stack & Tools
 
-<p align="left">
-  <span style="
-    display:inline-block;
-    padding:6px 12px;
-    margin:2px;
-    border-radius:999px;
-    background:#e34f26;
-    color:#ffffff;
-    font-weight:600;
-    font-size:12px;
-    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
-  ">
-    HTML5
-  </span>
-
-  <span style="
-    display:inline-block;
-    padding:6px 12px;
-    margin:2px;
-    border-radius:999px;
-    background:#1572b6;
-    color:#ffffff;
-    font-weight:600;
-    font-size:12px;
-    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
-  ">
-    CSS3
-  </span>
-
-  <span style="
-    display:inline-block;
-    padding:6px 12px;
-    margin:2px;
-    border-radius:999px;
-    background:#f7df1e;
-    color:#000000;
-    font-weight:600;
-    font-size:12px;
-    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
-  ">
-    JavaScript
-  </span>
-
-  <span style="
-    display:inline-block;
-    padding:6px 12px;
-    margin:2px;
-    border-radius:999px;
-    background:#61dafb;
-    color:#000000;
-    font-weight:600;
-    font-size:12px;
-    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
-  ">
-    React
-  </span>
-
-  <span style="
-    display:inline-block;
-    padding:6px 12px;
-    margin:2px;
-    border-radius:999px;
-    background:#339933;
-    color:#ffffff;
-    font-weight:600;
-    font-size:12px;
-    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
-  ">
-    Node.js
-  </span>
-
-  <span style="
-    display:inline-block;
-    padding:6px 12px;
-    margin:2px;
-    border-radius:999px;
-    background:#000000;
-    color:#ffffff;
-    font-weight:600;
-    font-size:12px;
-    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
-  ">
-    Express.js
-  </span>
-
-  <span style="
-    display:inline-block;
-    padding:6px 12px;
-    margin:2px;
-    border-radius:999px;
-    background:#316192;
-    color:#ffffff;
-    font-weight:600;
-    font-size:12px;
-    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
-  ">
-    PostgreSQL
-  </span>
-
-  <span style="
-    display:inline-block;
-    padding:6px 12px;
-    margin:2px;
-    border-radius:999px;
-    background:#47a248;
-    color:#ffffff;
-    font-weight:600;
-    font-size:12px;
-    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
-  ">
-    MongoDB
-  </span>
-
-  <span style="
-    display:inline-block;
-    padding:6px 12px;
-    margin:2px;
-    border-radius:999px;
-    background:#232f3e;
-    color:#ffffff;
-    font-weight:600;
-    font-size:12px;
-    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
-  ">
-    AWS
-  </span>
-
-  <span style="
-    display:inline-block;
-    padding:6px 12px;
-    margin:2px;
-    border-radius:999px;
-    background:#16a394;
-    color:#ffffff;
-    font-weight:600;
-    font-size:12px;
-    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
-  ">
-    Render
-  </span>
-
-  <span style="
-    display:inline-block;
-    padding:6px 12px;
-    margin:2px;
-    border-radius:999px;
-    background:#2496ed;
-    color:#ffffff;
-    font-weight:600;
-    font-size:12px;
-    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
-  ">
-    Docker
-  </span>
-
-  <span style="
-    display:inline-block;
-    padding:6px 12px;
-    margin:2px;
-    border-radius:999px;
-    background:#2088ff;
-    color:#ffffff;
-    font-weight:600;
-    font-size:12px;
-    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
-  ">
-    GitHub Actions
-  </span>
+<p>
+  <span style="background:#E34F26;color:white;padding:6px 12px;border-radius:6px;font-size:12px;font-family:system-ui;margin:3px;display:inline-block;">HTML5</span>
+  <span style="background:#1572B6;color:white;padding:6px 12px;border-radius:6px;font-size:12px;font-family:system-ui;margin:3px;display:inline-block;">CSS3</span>
+  <span style="background:#F7DF1E;color:black;padding:6px 12px;border-radius:6px;font-size:12px;font-family:system-ui;margin:3px;display:inline-block;">JavaScript</span>
+  <span style="background:#61DAFB;color:black;padding:6px 12px;border-radius:6px;font-size:12px;font-family:system-ui;margin:3px;display:inline-block;">React</span>
+  <span style="background:#339933;color:white;padding:6px 12px;border-radius:6px;font-size:12px;font-family:system-ui;margin:3px;display:inline-block;">Node.js</span>
+  <span style="background:black;color:white;padding:6px 12px;border-radius:6px;font-size:12px;font-family:system-ui;margin:3px;display:inline-block;">Express.js</span>
+  <span style="background:#316192;color:white;padding:6px 12px;border-radius:6px;font-size:12px;font-family:system-ui;margin:3px;display:inline-block;">PostgreSQL</span>
+  <span style="background:#47A248;color:white;padding:6px 12px;border-radius:6px;font-size:12px;font-family:system-ui;margin:3px;display:inline-block;">MongoDB</span>
+  <span style="background:#232F3E;color:white;padding:6px 12px;border-radius:6px;font-size:12px;font-family:system-ui;margin:3px;display:inline-block;">AWS</span>
+  <span style="background:#16A394;color:white;padding:6px 12px;border-radius:6px;font-size:12px;font-family:system-ui;margin:3px;display:inline-block;">Render</span>
+  <span style="background:#2496ED;color:white;padding:6px 12px;border-radius:6px;font-size:12px;font-family:system-ui;margin:3px;display:inline-block;">Docker</span>
+  <span style="background:#2088FF;color:white;padding:6px 12px;border-radius:6px;font-size:12px;font-family:system-ui;margin:3px;display:inline-block;">GitHub Actions</span>
 </p>
+
 
 
 ---
