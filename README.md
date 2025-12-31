@@ -1,5 +1,7 @@
 # JavaScript Full-Stack Developer | AI Engineer | System Architect
 
+# https://karlgit13.github.io/Personal-Portfolio/
+
 I am currently employed part-time (50%), primarily serving as an on-call expert for advanced debugging and complex problem-solving. I am actively seeking an additional 50% part-time role to secure more consistent working hours and expand my experience.
 
 <p align="left">
